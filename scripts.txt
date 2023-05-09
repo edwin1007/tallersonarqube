@@ -1,1 +1,2 @@
 1. docker run -d --name sonarqube -p 9000:9000 sonarqube:latest
+2. sqa_0eecd7a58de9f9b174de4955662fb0e939d63937 ; token generado. 
